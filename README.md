@@ -11,6 +11,7 @@ Languages: Python, Bash, basic JavaScript & SQL
 Systems: Linux (CLI), Windows
 Concepts: Networking basics, system security, threat awareness
 Tools (learning): Wireshark, Nmap, Burp Suite
+
 📂 Projects
 
 (Actively building – more coming soon)
