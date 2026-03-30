@@ -9,6 +9,7 @@ Exploring common vulnerabilities (XSS, SQL injection, etc.)
 Practicing Linux system navigation and command-line operations
 
 🛠️ Skills & Tools
+
 Languages: Python, Bash, basic JavaScript & SQL
 Systems: Linux (CLI), Windows
 Concepts: Networking basics, system security, threat awareness
@@ -19,9 +20,11 @@ Tools (learning): Wireshark, Nmap, Burp Suite
 (Actively building – more coming soon)
 
 Building an internal ticketing system
+
 Building a password checker
 
 🎯 Goals
+
 Build practical cybersecurity tools
 Contribute to security-related projects
 Gain hands-on experience in real-world environments
